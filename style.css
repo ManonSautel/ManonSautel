@@ -1,0 +1,21 @@
+/*colors and fonts */
+
+body {
+	background: rgb(240,240,240);
+	color: whitesmoke;
+}
+.container {
+	width: 1000px;
+	margin: 0 auto;
+	text-align: center;
+}
+.card-white{
+	background-color: hotpink;
+	padding: 30px;
+	margin: 30px;
+	border-radius: 4px;
+	box-shadow: 10px 10px 20px #BC39A8;
+}
+.img-circle{
+	border-radius: 50%;
+}
